@@ -1,0 +1,20 @@
+## y2qksx-user 13 TP1A.220624.014 G986NKSS3IXB1 release-keys
+- Manufacturer: samsung
+- Platform: kona
+- Codename: y2q
+- Brand: samsung
+- Flavor: y2qksx-user
+- Release Version: 13
+- Kernel Version: 4.19.113
+- Id: TP1A.220624.014
+- Incremental: G986NKSS3IXB1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: ko-KR
+- Screen Density: undefined
+- Fingerprint: samsung/y2qksx/y2q:11/RP1A.200720.012/G986NKSS3IXB1:user/release-keys
+- OTA version: 
+- Branch: y2qksx-user-13-TP1A.220624.014-G986NKSS3IXB1-release-keys
+- Repo: samsung_y2q_dump
